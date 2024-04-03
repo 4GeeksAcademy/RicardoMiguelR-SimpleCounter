@@ -1,12 +1,70 @@
+body {
+    background-image: url(https://www.xtrafondos.com/wallpapers/halo-5-1449.jpg);
+    background-size: cover;
+}
 
-/* 
+.simple-counter {
+    color: rgba(255, 255, 255, 0.733);
+    display: flex;
+    justify-content: center;
+    font-family: Copperplate Gothic;
+    font-size: 6rem;
+}
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+.icon-clock {
+    background: black;
+    box-shadow: rgb(77, 42, 175) 0px 1px 11px 6px;
+    margin: 20px;
+    padding: 20px;
+    align-content: center;
+    border-radius: 30px;
+    font-size: 10px;
+}
 
-*/
+.seconds1 {
+    background: black;
+    box-shadow: rgb(128, 116, 241) 0px 1px 11px 6px;
+    margin: 20px;
+    padding: 20px;
+    align-content: center;
+    border-radius: 30px;
+    height: 208px;
+    width: 160px;
+    text-align: center;
+}
+
+.seconds2 {
+    background: black;
+    box-shadow: rgb(109, 111, 243) 0px 1px 11px 6px;
+    margin: 20px;
+    padding: 20px;
+    align-content: center;
+    border-radius: 30px;
+    height: 208px;
+    width: 160px;
+    text-align: center;
+}
+
+.seconds3 {
+    background: black;
+    box-shadow: rgb(109, 140, 243) 0px 1px 11px 6px;
+    margin: 20px;
+    padding: 20px;
+    align-content: center;
+    border-radius: 30px;
+    height: 208px;
+    width: 160px;
+    text-align: center;
+}
+
+.seconds4 {
+    background: black;
+    box-shadow: rgb(132, 142, 238) 0px 1px 11px 6px;
+    margin: 20px;
+    padding: 20px;
+    align-content: center;
+    border-radius: 30px;
+    height: 208px;
+    width: 160px;
+    text-align: center;
+}
